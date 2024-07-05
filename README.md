@@ -1,1 +1,1 @@
-The project aims to analyze how used car feature impact market prices and use data from online listings to predict prices based on vehicle feature.
+The purpose of this project is to discuss the characteristics of used cars in terms of their impact on market prices. Based on such analysis, we can build price prediction models and provide historical data. The final product takes as input the characteristics of a used car (make, model, body type, year, mileage, etc.) and outputs a price prediction.
